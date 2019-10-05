@@ -32,6 +32,9 @@ Join [Kottans public chat](https://t.me/kottans) and
 [Kottans Radio channel](https://t.me/radio_kottans) on Telegram
 and look for announcements during September and early October.
 
+Participants are required to follow
+[Hacktoberfest Events Code of Conduct](https://do.co/hacktoberconduct)
+
 ### What happens on Kottans Hacktoberfest event?
 
 The aim of the event is to make participants comfortable

@@ -1,6 +1,8 @@
 [![Kottans-Hacktoberfest][badge-kottans]][kottans-hacktoberfest]
 [![MIT Licensed][badge-mit]][license]
 
+![Hacktoberfest](assets/img/Hacktoberfest_19_Events_730x90.png)
+
 # Hacktoberfest
 
 [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
